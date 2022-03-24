@@ -1,0 +1,80 @@
+#game-info{
+    width: 100%;
+    height:100vh;
+    background-color: rgb(0, 0, 0);
+    padding: 10%;
+    /* background-image: url('../images101/parshu2.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-blend-mode: screen; */
+    
+
+}
+
+.footcont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(34, 34, 34);
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-family: sans-serif;
+    height: 30vh;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+}
+.footbot{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(0, 0, 12);
+    color: rgb(70, 70, 70);
+    font-size: 1rem;
+    font-family: sans-serif;
+    height: 30px;
+}
+.footer1{
+    font-family: Robus;
+    /* font-weight: bold; */
+    font-size: 6rem;
+    color: #ff2a2a;
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2rem;
+    z-index: 2;
+}
+.li1{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-family: Aquire;
+}
+.li2{
+    font-size: 1rem;
+    margin-bottom: 5px;
+    font-family: Aquire;
+}
+
+.heading{
+    /* margin: 10% 0% 0% 10% ; */
+    font-family: Manda1;
+    font-size: 8rem;
+    color: #ff2a2a;
+}
+.infocontent{
+    margin-top: 8%;
+    margin-left: 10%;
+    width: 60%;
+    color: #ff1515;
+    font-family: Ubuntu;
+    font-size: 1.2rem;
+
+}
+/* .covimg{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    opacity: 0.4;
+} */
